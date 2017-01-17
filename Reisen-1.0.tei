@@ -32,7 +32,7 @@
 <fileDesc>
 <titleStmt>
 <title>Reisen in den Philippinen</title>
-<author sortkey="Jagor, Andreas Fedor">Andreas Fedor Jagor (1816&ndash;1900)</author>
+<author key="Jagor, Andreas Fedor" ref="https://viaf.org/viaf/149592501/">Andreas Fedor Jagor (1816&ndash;1900)</author>
 <respStmt><resp>Transcription</resp> <name>Jeroen Hellingman</name></respStmt>
 </titleStmt>
 <publicationStmt>
@@ -45,6 +45,7 @@
 <idno type=LibThing>#####</idno>
 <idno type=PGclearance>20150503100649jagor</idno>
 <idno type=PGDPProjectId>projectID5548ae8079997</idno>
+<idno type=PGSrc>53322-Jagor-Reisen-in-den-Philippinen</idno>
 <idno type=epub-id>urn:uuid:886487d9-5a96-4f0c-9917-64eed963a603</idno>
 <idno type=PGnum>53322</idno>
 <date>2016-10-19</date>
@@ -3585,7 +3586,7 @@ Menas (Klassen).       | Habana-Klassen        | einer |von 1000 |einer   |Zigar
 <head>DAS TAGALISCHE VATER UNSER.</head>
 
 
-<INTRA>
+<INTRA langs="tl de">
 <p>[Ama|Vater] [namin|unser] [sung|der] [ma|bist] [sa|im] [langit|Himmel] [ca,|du,] [sambahin|werde geheiligt] [ang|der] [n&gtilde;ala|Name] [mo,|dein,] [napa|komme] [sa|zu] [amin|uns] [ang|das] [cahavian|Reich] [mo.|dein.] [sundin|geschehe] [ang|der] [loob|Wille] [mo|dein] [aqui|desgleichen] [sa|auf] [lupa|Erden] [para|so] [nang|wie] [sa|im] [langit,|Himmel,] [Bigyan|werde gegeben] [mo|von dir] [cami|uns] [n&gtilde;aion|jetzt] [nang|von] [amin|unserem] [canin|Brod] [sa|von] [arao|Tag (für)] [arao|Tag] [at|und] [patavarin|werden vergeben] [mo|von dir] [cami|wir] [nang|von] [aming|unseren] [manga otang|Schulden] [pava|ebenso] [nang|wie] [pagpapatravar|vergeben] [namin|wir] [sa|denen] [nan&gtilde;ag|welche] [caca|haben] [otang|Schulden] [sa|an] [amin|uns] [at|und] [hovag|nicht] [mo|von dir] [caming|wir] [ipahintolot|werden gelassen fallen] [sa|in] [tocso|Versuchung] [at|und] [iadya|werden erlöst] [mo|von dir] [cami|wir] [sa|von] [dilan|allen] [masama.|Uebeln.] Amen.
 </INTRA>
 
